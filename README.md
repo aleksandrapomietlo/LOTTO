@@ -1,0 +1,2 @@
+# LOTTO
+symulator_lotto
