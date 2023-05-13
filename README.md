@@ -1,2 +1,2 @@
 # LOTTO
-symulator_lotto
+Gra symulator lotto
